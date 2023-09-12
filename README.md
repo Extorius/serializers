@@ -193,4 +193,9 @@ end
 #### Results
 - *Results are in seconds*
 
-![benchmarks|300x100](https://i.e-z.host/zyd2bjfxdh8ty6d0otiqc2z2df7d78%E2%80%8E)
+| Base Serializer  | Optimized Serializer |
+| ------------- |:-------------:|
+|  0.776     | 0.723     |
+| 0.744      | 0.736     |
+| 0.808      | 0.745     |
+| 0.765      | 0.742     |
